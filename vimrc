@@ -1,0 +1,9 @@
+nnoremap C c
+nnoremap c k
+nnoremap n l
+nnoremap t j
+inoremap <C-d> <BS>
+nnoremap <C-g> <Esc>
+vnoremap <C-g> <Esc>
+inoremap <C-g> <Esc>
+cmap <C-g> <Esc>
